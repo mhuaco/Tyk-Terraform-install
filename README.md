@@ -1,4 +1,4 @@
-# Installing Tyk with Terraform
+# Deploying Tyk with Terraform
 
 ✅ To deploy Tyk using Terraform, ensure you have the following tools installed:
 
